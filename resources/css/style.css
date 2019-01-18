@@ -3,6 +3,6 @@ body {
 }
 
 .hero {
-  background-image: url('/Volumes/WORK DRIVE/WORK/CODING/Broadway/resources/images/the-flatiron-building.png');
+  background-image: url('./resources/images/the-flatiron-building.png');
   color: white;
 }
