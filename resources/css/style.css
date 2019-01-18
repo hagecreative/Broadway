@@ -1,3 +1,7 @@
 body {
   text-align: center;
 }
+
+.hero {
+  background-image: url("./resources/images/the-flatiron-building.png")
+}
